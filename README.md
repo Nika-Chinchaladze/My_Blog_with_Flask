@@ -1,1 +1,3 @@
-# My_Blog_with_Flask
+# My Blog
+Frondend technologies: HTML / CSS / Bootstrap / Javascript
+Backend technologies: Python - Flask Framework, Jinja
